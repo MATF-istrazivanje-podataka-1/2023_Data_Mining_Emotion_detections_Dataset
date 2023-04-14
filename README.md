@@ -1,1 +1,11 @@
-2023_Data_Mining_Emotion_detections_Dataset
+# Autor: Jovan Milanović
+
+# Tema: Detekcija emocija u tekstu
+
+# Korišćene biblioteke
+
+**numpy**  - ```pip install numpy```
+
+**sklearn** - ```pip install scikit-learn```
+
+**pandas** - ```pip install pandas```
